@@ -1,0 +1,145 @@
+{
+    "department" : 
+        [
+            {
+              "name": "Công nghệ thông tin",
+              "id": "1"
+            },
+            {
+              "name": "Kinh tế",
+              "id": "2"
+            },
+            {
+              "name": "Cơ bản",
+              "id": "3"
+            },
+            {
+                "name":"Nhân sự",
+                "id":"4"
+            }
+          ],
+        "teacher":
+        [
+            
+                {
+                  "name": "Mindy Shanahan",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/799.jpg",
+                  "dob": "1984-04-22T17:00:00.000Z",
+                  "gender": "Female",
+                  "email": "Nicolas_Torphy84@yahoo.com",
+                  "department": {},
+                  "id": "1"
+                },
+                {
+                  "name": "Violet Miller",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/408.jpg",
+                  "dob": "1986-04-17T17:00:00.000Z",
+                  "gender": "Female",
+                  "email": "Louisa.Ziemann43@yahoo.com",
+                  "department": {},
+                  "id": "3"
+                },
+                {
+                  "name": "Kerry Nicholson",
+                  "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+                  "dob": "1992-05-07T17:00:00.000Z",
+                  "gender": "Male",
+                  "email": "zenymyl@mailinator.com",
+                  "department": {
+                    "name": "Công nghệ thông tin",
+                    "id": "1"
+                  },
+                  "id": "4"
+                },
+                {
+                  "name": "Clark Hahn",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/222.jpg",
+                  "dob": "1943-05-25T13:43:42.555Z",
+                  "gender": "gender 5",
+                  "email": "Trace_Stark25@yahoo.com",
+                  "department": {},
+                  "id": "5"
+                },
+                {
+                  "name": "Ms. Leonard Schroeder",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/71.jpg",
+                  "dob": "1962-05-23T03:27:49.378Z",
+                  "gender": "gender 6",
+                  "email": "Madelynn83@hotmail.com",
+                  "department": {},
+                  "id": "6"
+                },
+                {
+                  "name": "Manuel Kling",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1039.jpg",
+                  "dob": "2002-11-13T20:45:12.064Z",
+                  "gender": "gender 7",
+                  "email": "Osvaldo_Yost7@hotmail.com",
+                  "department": {},
+                  "id": "7"
+                },
+                {
+                  "name": "Glen Spencer",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1051.jpg",
+                  "dob": "1971-06-22T21:01:30.595Z",
+                  "gender": "gender 8",
+                  "email": "Karen_Zieme@yahoo.com",
+                  "department": {},
+                  "id": "8"
+                },
+                {
+                  "name": "Enrique Green",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/240.jpg",
+                  "dob": "1960-01-19T13:07:03.222Z",
+                  "gender": "gender 9",
+                  "email": "Roger78@yahoo.com",
+                  "department": {},
+                  "id": "9"
+                },
+                {
+                  "name": "Jeff Abbott",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/674.jpg",
+                  "dob": "1963-04-13T09:50:48.497Z",
+                  "gender": "gender 10",
+                  "email": "Christ_Langosh57@hotmail.com",
+                  "department": {},
+                  "id": "10"
+                },
+                {
+                  "name": "Leo Conn",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/367.jpg",
+                  "dob": "1999-03-30T14:55:22.277Z",
+                  "gender": "gender 11",
+                  "email": "Reymundo.Tremblay@yahoo.com",
+                  "department": {},
+                  "id": "11"
+                },
+                {
+                  "name": "Stuart Kuhlman",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/462.jpg",
+                  "dob": "1960-07-31T22:40:35.941Z",
+                  "gender": "gender 12",
+                  "email": "Liana79@gmail.com",
+                  "department": {},
+                  "id": "12"
+                },
+                {
+                  "name": "Lydia Herzog",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/643.jpg",
+                  "dob": "1945-04-12T17:21:49.480Z",
+                  "gender": "gender 13",
+                  "email": "Della_Grimes@hotmail.com",
+                  "department": {},
+                  "id": "13"
+                },
+                {
+                  "name": "Miss Phyllis Heidenreich",
+                  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/989.jpg",
+                  "dob": "1968-07-02T08:22:39.469Z",
+                  "gender": "gender 14",
+                  "email": "Gage14@yahoo.com",
+                  "department": {},
+                  "id": "14"
+                }
+              ]
+}
